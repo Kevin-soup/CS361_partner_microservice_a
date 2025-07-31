@@ -40,4 +40,4 @@
 ---  
 
 ##C. UML Sequence Diagram
-![UML Sequence Diagram](uml-diagram.png)
+![UML Sequence Diagram](uml-diagram)
