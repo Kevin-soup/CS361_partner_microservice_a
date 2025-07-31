@@ -1,8 +1,8 @@
-Microservice A - EncryptionConverter
+#Microservice A - EncryptionConverter
 
 ---
 
-A. How to REQUEST data.
+##A. How to REQUEST data.
 
 
   &nbsp;&nbsp; After setting up your ZeroMQ environment, connect to socket 5555:
@@ -22,9 +22,7 @@ A. How to REQUEST data.
   
 ---
 
-B. How to RECIEVE data
-
-
+##B. How to RECIEVE data
 
 
   &nbsp;&nbsp; To recieve the converted message, use:
@@ -41,6 +39,5 @@ B. How to RECIEVE data
   
 ---  
 
-C. UML Sequence Diagram
-
-
+##C. UML Sequence Diagram
+![UML Sequence Diagram](uml-diagram.png)
